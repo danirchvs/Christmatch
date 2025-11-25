@@ -92,7 +92,7 @@ Below is a diagram-like structure of the other primary helper classes defined in
 
 * **`Card`**: Represents a single card, holding its value and whether it's flipped.
 * **`MemoryBoard`**: The **core game engine** that manages the board, game logic, and card matching.
-* **`Utils`**: A helper class for repeating functions, like clearing the screen.
+* **`Utils`**: A helper class for consistent formatted printing. It ensures that all text and emojis display correctly across different console environments.
 * **`Event`**: The base "template" for all game events, divided into the two types shown above.
 <br/>
 <br/>
