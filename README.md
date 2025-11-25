@@ -106,7 +106,7 @@ Below is a diagram-like structure of the other primary helper classes defined in
 Ready to play? Here's how to launch the game from your computer's terminal.
 
 1.  **Open Your Terminal**
-    * Start your favorite command line terminal (like Command Prompt, PowerShell, or Windows Terminal). You'll see a prompt, usually starting with your user folder:
+    * Start your favorite command line terminal (like Command Prompt, PowerShell, or Windows Terminal). For the best display of all characters and emojis, Command Prompt (CMD) is recommended. You'll see a prompt, usually starting with your user folder:
     ```
     C:\Users\YourName>
     ```
