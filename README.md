@@ -14,7 +14,6 @@
 </p>
 <br/>
 <br/>
-<br/>
 
 <img width="3780" height="1890" alt="Image" src="https://github.com/user-attachments/assets/f6d5be08-385e-4bef-8e0f-83f5c2bc6410" />
 
@@ -25,7 +24,6 @@ Christmatch is a console-based, Christmas-themed memory matching game. Players f
 This project was built to showcase the four fundamental Object-Oriented Programming (OOP) principles: encapsulation, inheritance, polymorphism, and abstraction.
 
 The game features a dynamic narrative, playful hints on mismatches, and a fully scripted ending. Completing all matches restores the Christmas spirits and concludes with a joyful, celebratory story, letting players enjoy both the memory challenge and the heartwarming tale of Everpine.<br/>
-<br/>
 <br/>
 
 # ✩‧₊˚ ┊🎮Game Features
@@ -44,7 +42,6 @@ The game features a dynamic narrative, playful hints on mismatches, and a fully 
     
 ☃️ Scripted Ending: A festive, text-based ending sequence plays once all spirits are found and the game is won.
 ```
-<br/>
 <br/>
 <br/>
 
