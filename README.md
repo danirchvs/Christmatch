@@ -16,6 +16,8 @@
 <br/>
 <br/>
 
+<img width="3780" height="1890" alt="Image" src="https://github.com/user-attachments/assets/f6d5be08-385e-4bef-8e0f-83f5c2bc6410" />
+
 # ✩‧₊˚ ┊🎄Overview
 
 Christmatch is a console-based, Christmas-themed memory matching game. Players flip cards on a 2x4 grid to find the four lost Christmas spirits: Love, Peace, Warmth, and Joy.
